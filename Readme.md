@@ -6,7 +6,7 @@ Basecamp + GitHub Redmine Theme
 
 Redmine is a fantastic alternative to Basecamp. Having a familiar interface is always helpful for new users, so someone stole Basecamp's. Quite perfect really. I feel at home in GitHub's wiki styles, so I decided to smash the two together. 
 
-![GitCamp Screenshot](http://github.com/kennethreitz/redmine-gitcamp-theme/raw/master/screenshot.png)
+![GitCamp Screenshot](https://raw.githubusercontent.com/kennethreitz/redmine-gitcamp-theme/master/screenshot.png)
 
 Never been better.
 
